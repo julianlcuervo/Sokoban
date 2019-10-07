@@ -11,7 +11,6 @@ import static Implementacion.QuickSort.quickSort;;
 /**
  * Esta clase es utilizada para elegir el nivel y tener la posibilidad de ver los resultados de cada uno de los niveles
  * @author julian Cuervo
- * @since 28/5/2017
  *
  */
 public class Interface {
