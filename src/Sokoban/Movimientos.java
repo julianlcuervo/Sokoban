@@ -4,7 +4,6 @@ import Implementacion.Chain;
 /**
  * Esta Clase se implementa para los movimientos de derecha eh izquierda del jugador
  * @author julian Cuervo 
- * @since 28/5/17
  */
 public class Movimientos {
 	/**
