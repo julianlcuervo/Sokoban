@@ -8,7 +8,6 @@ import Implementacion.LinkedStack;
 /**Esta clase es la encargada de crear el nivel Dificil y retornar la cantidad de movimientos 
  * 
  * @author julian Cuervo
- * @since 28/05/2017
  *
  */
 public class Dificil {
